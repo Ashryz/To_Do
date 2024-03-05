@@ -9,7 +9,7 @@
                 ],
     'application': True,
     'data':[
-        # 'security/ir.model.access.csv'
+        'security/ir.model.access.csv'
         'views/base_menu.xml',
         'views/ticket.xml'
 
