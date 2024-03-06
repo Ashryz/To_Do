@@ -54,5 +54,4 @@
                 name="my tickets"
                 parent="menu_root_ticket"
                 action="todo_ticket_action"/>
-
 </odoo>

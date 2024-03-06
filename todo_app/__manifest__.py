@@ -8,11 +8,9 @@
     'depends': ['base',
                 ],
     'application': True,
-    'data':[
+    'data': [
         'security/ir.model.access.csv'
         'views/base_menu.xml',
         'views/ticket.xml'
-
     ]
-
 }
