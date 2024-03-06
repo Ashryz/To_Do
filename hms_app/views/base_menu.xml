@@ -1,0 +1,5 @@
+<odoo>
+    <menuitem id="menu_hms"
+              name="HMS"
+              web_icon="hms_app,static/description/icon.png"/>
+</odoo>
